@@ -1,0 +1,9 @@
+# Environment & logs
+*.log
+.DS_Store
+
+# IDE configurations
+.vscode/
+.idea/
+*.swp
+*~
